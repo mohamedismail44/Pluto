@@ -2,7 +2,7 @@
 
 ## To preview the project
 
-### click here: [Pluto Project](www.google.com)
+### click here: [Pluto Project](https://pluto2.netlify.app/)
 
 ---
 
@@ -42,27 +42,17 @@ To set up the Movie and Series Website locally, follow these steps:
 3. Install the dependencies: npm install
 4. Start the development server: npm start
 5. Open your web browser and visit http://localhost:3000 to access the website.
-
----
-
-## Contact
-
-If you have any questions or need further assistance, please don't hesitate to contact me at [mohamed.i4554@gmail.com]
-
+   
 ---
 
 ## Main Pages
 
 ### Home Page
-
 <div>
-
+  
 ![home1](https://github.com/mohamedismail44/Template-3-Ecommerce-css-html/assets/160850657/58d2bfd1-9bc3-4b1f-b433-0a08ff5a5ae1)
-
 ![home 2](https://github.com/mohamedismail44/Template-3-Ecommerce-css-html/assets/160850657/363b654c-b2e2-49f6-84b5-b76f598eccee)
-
 ![home3](https://github.com/mohamedismail44/Template-3-Ecommerce-css-html/assets/160850657/14aaccbb-649e-441f-86d1-08dcf6ddd6a7)
-
 ![home4](https://github.com/mohamedismail44/Template-3-Ecommerce-css-html/assets/160850657/cac48a85-9a44-4493-9701-72edbd0fd5bd)
 
 </div>
@@ -96,6 +86,12 @@ If you have any questions or need further assistance, please don't hesitate to c
 ### About Page
 
 ![About page](https://github.com/mohamedismail44/Template-3-Ecommerce-css-html/assets/160850657/b1364012-3a7d-4aa7-86ba-220bac32b29d)
+
+---
+
+## Contact
+
+If you have any questions or need further assistance, please don't hesitate to contact me at [mohamed.i4554@gmail.com]
 
 ---
 
