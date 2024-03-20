@@ -48,16 +48,21 @@ To set up the Movie and Series Website locally, follow these steps:
 ## Main Pages
 
 ### Home Page
-<div>
-  
-![home1](https://github.com/mohamedismail44/Template-3-Ecommerce-css-html/assets/160850657/58d2bfd1-9bc3-4b1f-b433-0a08ff5a5ae1)
-![home 2](https://github.com/mohamedismail44/Template-3-Ecommerce-css-html/assets/160850657/363b654c-b2e2-49f6-84b5-b76f598eccee)
-![home3](https://github.com/mohamedismail44/Template-3-Ecommerce-css-html/assets/160850657/14aaccbb-649e-441f-86d1-08dcf6ddd6a7)
-![home4](https://github.com/mohamedismail44/Template-3-Ecommerce-css-html/assets/160850657/cac48a85-9a44-4493-9701-72edbd0fd5bd)
 
-</div>
+![Home](https://github.com/mohamedismail44/Pluto-Movies-WebApp/assets/160850657/5637d83e-d708-41f7-a9fe-fd93fe2048e0)
 
 ---
+
+### Login page
+
+![Login page](https://github.com/mohamedismail44/Pluto-Movies-WebApp/assets/160850657/2f70eac7-6171-4aff-ba8f-90aa5a90ecd8)
+
+---
+
+### Register Page
+
+![Register](https://github.com/mohamedismail44/Pluto-Movies-WebApp/assets/160850657/546c6c65-6017-41ad-8336-7923913ceca1)
+
 
 ### Movies page
 
