@@ -12,9 +12,10 @@ export default function Details() {
     );
     setItemsDetails(data);
   };
+
   useEffect(() => {
     getItemsDetails();
-  });
+  }, []);
 
   return (
     <>
