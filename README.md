@@ -2,7 +2,7 @@
 
 ## To preview the project
 
-### click here: [Pluto Project](https://pluto2.netlify.app/)
+### click here: [Pluto Project](https://pluto-movies-web-app.vercel.app/)
 
 ---
 
